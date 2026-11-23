@@ -1,0 +1,17 @@
+
+# Xcode local files
+.DS_Store
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
+.DS_Store
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
+.DS_Store
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
